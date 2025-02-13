@@ -1,7 +1,7 @@
 # 🪐Esplora il Sistema Solare
 Clicca sull'immagine per visualizzare il grafico interattivo 3D:
 
-[![Visualizza il grafico interattivo](https://github.com/JovicReyes/Solar-System/blob/main/anteprima.png)](https://plotly.com/~your_username/your_graph_link/)
+[![Visualizza il grafico interattivo](https://github.com/JovicReyes/Solar-System/blob/main/anteprima.png)](https://jovicreyes.github.io/Solar-System/)
 
 
 ## Dependencies
