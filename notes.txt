@@ -1,0 +1,10 @@
+1. Inizio creando alcune liste che contengono la distanza dal Sole e il diametro degli oggetti celesti. 
+    Nota che ho dovuto ridurre le dimensioni del Sole rendendolo molto più piccolo, altrimenti sarebbe stato troppo grande per il nostro grafico.
+
+2. Mentre ho mantenuto la scala per garantire che le dimensioni dei pianeti siano corrette rispetto l'una all'altra, il Sole non lo è. 
+    Inoltre, la distanza dei pianeti è in scala, ad esempio, Giove è 7 volte più lontano dal Sole di Venere.
+
+3. Tuttavia, non ho mantenuto la scala tra i pianeti e la distanza dal Sole perché ho espresso il diametro in chilometri, 
+    mentre la distanza è espressa in milioni di chilometri.
+
+4. Poi uso semplicemente funzioni per creare le tracce per ogni sfera e orbita, comprese alcune anelli attorno a Saturno.
